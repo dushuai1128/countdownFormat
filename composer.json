@@ -1,0 +1,16 @@
+{
+    "name": "singi/countdown-format",
+    "description": "countdown format",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "singi",
+            "email": "787575327@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+
+    }
+}
