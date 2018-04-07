@@ -6,7 +6,7 @@
  * Time: 11:52
  */
 
-namespace src;
+namespace Singi;
 
 /**
  * Class countdownFormat
